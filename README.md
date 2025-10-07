@@ -65,7 +65,7 @@ git clone <YOUR_REPOSITORY_URL_HERE>
 - Change into the cloned directory:
 
 ```bash
-cd <YOUR_REPOSITORY_FOLDER_NAME>
+cd Schedule-Tool
 ```
 - Execute the script:
 ```bash
