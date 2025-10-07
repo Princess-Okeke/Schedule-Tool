@@ -58,7 +58,7 @@ pip install ttkbootstrap matplotlib
 - Run:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL_HERE>
+git clone https://github.com/Princess-Okeke/Schedule-Tool.git
 ```
 
 ### Run the Application
